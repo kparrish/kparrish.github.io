@@ -60,8 +60,8 @@ a {
   color: #6600ff;
 }
 a:hover {
-  color: #6600ff;
-  text-shadow: #6600ff 0px 0px 2px;
+  color: #8533ff;
+  text-shadow: #8533ff 0px 0px 2px;
 }
 
 header {
@@ -70,7 +70,7 @@ header {
 }
 
 header h1 {
-  font-family: Arial, Helvetica, 'Helvetica Neue', Arial, serif; font-weight: 900;
+  font-family: Helvetica, 'Helvetica Neue', Arial, serif; font-weight: 900;
   letter-spacing: -1px;
   font-size: 48px;
   color: #303030;
