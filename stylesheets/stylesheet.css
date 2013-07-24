@@ -57,10 +57,11 @@ body {
 }
 
 a {
-  color: #d5000d;
+  color: #6600ff;
 }
 a:hover {
-  color: #c5000c;
+  color: #6600ff;
+  text-shadow: #6600ff 0px 0px 2px;
 }
 
 header {
