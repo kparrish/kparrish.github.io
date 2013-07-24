@@ -58,7 +58,20 @@ body {
 
 a {
   color: #6600ff;
+  text-shadow: none;
+
+  transition: color -0.5s ease;
+  transition: text-shadow -0.5s ease;
+  -webkit-transition: color -0.5s ease;
+  -webkit-transition: text-shadow -0.5s ease;
+  -moz-transition: color -0.5s ease;
+  -moz-transition: text-shadow -0.5s ease;
+  -o-transition: color -0.5s ease;
+  -o-transition: text-shadow -0.5s ease;
+  -ms-transition: color -0.5s ease;
+  -ms-transition: text-shadow -0.5s ease;
 }
+
 a:hover {
   color: #8533ff;
   text-shadow: #8533ff 0px 0px 2px;
@@ -323,6 +336,7 @@ footer a {
 }
 footer a:hover {
   color: #444;
+  text-shadow: #444 0px 0px 2px;
 }
 
 /* MISC */
