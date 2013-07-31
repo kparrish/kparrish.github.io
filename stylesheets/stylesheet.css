@@ -82,6 +82,15 @@ header {
   padding-bottom: 25px;
 }
 
+header a {
+  color: #666;
+}
+
+header a:hover {
+  color: #444;
+  text-shadow: #444 0px 0px 2px;
+}
+
 header h1 {
   font-family: Helvetica, 'Helvetica Neue', Arial, serif; font-weight: 900;
   letter-spacing: -1px;
